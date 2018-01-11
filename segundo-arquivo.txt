@@ -1,3 +1,4 @@
 qualquer coisa no arquivo
 escrevendo no arquivo apartir da release
 adicionando conteuno do segundo-arquivo, via hotfix
+alterando em hotfix 2017.01.003.2

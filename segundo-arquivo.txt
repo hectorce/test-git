@@ -1,2 +1,3 @@
 qualquer coisa no arquivo
 escrevendo no arquivo apartir da release
+adicionando conteuno do segundo-arquivo, via hotfix
